@@ -13,6 +13,7 @@
         # Odoo Modules
         "mail",
         "purchase",
+        "purchase_requisition",
         "account",
         "hr_expense",
         # OCA Modules
@@ -49,11 +50,13 @@
         "budget_monitoring_operating_unit_expense",
         "budget_monitoring_operating_unit_purchase",
         "budget_monitoring_operating_unit_purchase_request",
+        "purchase_isolated_rfq",
         # NxPO Modules
         "nxpo_res_project",
         "nxpo_res_project_department",
         "nxpo_res_project_monitoring_report",
         "nxpo_budget_revision_monitoring_project",
+        "nxpo_purchase_isolated_rfq_state",
     ],
     "installable": True,
 }
