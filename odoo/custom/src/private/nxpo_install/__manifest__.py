@@ -55,6 +55,7 @@
         "nxpo_res_project_monitoring_report",
         "nxpo_budget_revision_monitoring_project",
         "nxpo_purchase_request_draft_sequence",
+        "nxpo_stock_inventory_note",
     ],
     "installable": True,
 }
